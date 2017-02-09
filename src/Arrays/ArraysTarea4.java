@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Arrays;
 import java.util.Scanner;
 public class ArraysTarea4 {
 
